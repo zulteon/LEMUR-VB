@@ -1,7 +1,7 @@
 ---
 
-title: "Skócia - Haiti elemzés"
-date: "2026-06-13T20:45:00+02:00"
+title: "Haiti - Skócia elemzés"
+date: "2026-06-14T03:00:00+02:00"
 excerpt: "Oddsok, meccskép és tippgondolat a Skócia - Haiti mérkőzéshez."
 tags: ["meccselemzés", "odds", "válogatott"]
 --------------------------------------------

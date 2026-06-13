@@ -1,7 +1,7 @@
 ---
 
 title: "Ausztrália - Törökország elemzés"
-date: "2026-06-13T20:46:00+02:00"
+date: "2026-06-14T06:00:00+02:00"
 excerpt: "Oddsok, meccskép és tippgondolat az Ausztrália - Törökország mérkőzéshez."
 tags: ["meccselemzés", "odds", "válogatott", "világbajnokság"]
 --------------------------------------------------------------

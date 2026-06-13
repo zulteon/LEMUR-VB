@@ -1,7 +1,7 @@
 ---
 
 title: "Katar - Svájc elemzés"
-date: "2026-06-13T04:21:00+02:00"
+date: "2026-06-13T21:00:00+02:00"
 excerpt: "Oddsok, meccskép és tippgondolat a Katar - Svájc mérkőzéshez."
 tags: ["meccselemzés", "odds", "válogatott"]
 --------------------------------------------
