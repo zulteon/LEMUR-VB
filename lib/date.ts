@@ -6,6 +6,7 @@ export function formatPostDate(date: string) {
   }
 
   return new Intl.DateTimeFormat("hu-HU", {
+    timeZone: "Europe/Budapest",
     year: "numeric",
     month: "2-digit",
     day: "2-digit",
