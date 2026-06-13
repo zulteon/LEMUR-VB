@@ -84,3 +84,25 @@ A félidei döntetlen és az első félidő under 1.5 gól logikailag illeszkedi
 Az Ecuador dupla esély inkább arra épül, hogy Ecuador stabilabban tudja menedzselni a találkozót, és kevésbé valószínű, hogy teljesen szétesik egy fizikális meccsben. Ez viszont nem kockázatmentes, mert Elefántcsontpart sebessége és átmeneti játéka akkor veszélyes igazán, ha Ecuador labdavesztés után rosszul rendeződik vissza.
 
 Összességében nem érdemes ezt a meccset biztos nyereményként kezelni. A fő logika inkább az, hogy a választott piacok többsége ugyanarra az alapképre épül: kompakt, fizikális, sok párharcos találkozóra, ahol nem feltétlenül a gólváltás és a nyílt rohanás dominál. Emiatt az óvatosabb underes piacok és a lapos irányok jobban illenek a várható ritmushoz, míg a pontos félidei állás, konkrét játékoslap vagy erősen állásfüggő szögletpiac már inkább magasabb kockázatú kiegészítés.
+
+## Odds Elemzés profiktól
+
+### Oddsok
+
+ALACSONY KOCKÁZAT: Under 3.5 gól, Under 4.5 gól, Over 1.5 gól
+KÖZEPES KOCKÁZAT: Under 2.5 gól, Ecuador +0 / Ecuador nem kap ki, döntetlen, BTTS – igen, Elefántcsontpart +0.5
+MAGAS KOCKÁZAT: Ecuador győzelem, Ecuador nyer nullára, Elefántcsontpart győzelem, pontos eredmény 1-1, Enner Valencia gólt szerez, első gólszerző Enner Valencia
+Ecuador győzelem: kb. 2.37–2.51
+* Döntetlen: kb. 2.80–2.90
+* Elefántcsontpart győzelem: kb. 3.57–3.86
+* Over 1.5 gól: kb. 1.60–1.83
+* Under 2.5 gól: kb. 1.40
+* BTTS – igen: kb. 2.20
+* Pontos eredmény 1-1: kb. 6.00
+* Enner Valencia gólt szerez: kb. 2.88
+
+### Elemzés
+
+A legtöbb előzetes nagyon kiegyenlített csoportnyitót lát, ahol Ecuador szervezettsége és védekezési stabilitása áll szemben Elefántcsontpart atletikus, gyors átmenetekre építő játékával. Ecuador mellett főleg az szól, hogy a dél-amerikai selejtezőben nagyon kevés gólt kapott, erős középpályás-védelmi tengellyel játszik, és több elemző szerint a csoport második helyéért vívott harcban ez a meccs kulcsfontosságú lehet. Elefántcsontpart mellett viszont a friss forma, a gyors szélsők, a kontraveszély és a támadóopciók mélysége az érv, ezért nem mindenki kezeli őket klasszikus underdogként.
+
+A leggyakrabban visszatérő piacok az Under 2.5, az Over 1.5, a döntetlen / 1-1, illetve az Ecuador nem kap ki vagy Ecuador győzelem irány. A nagyobb szorzós, de logikusan indokolt ötletek közül az 1-1 pontos eredmény, a BTTS – igen, valamint az Elefántcsontpart +0.5 / dupla esély 1X emelhető ki: ezek arra épülnek, hogy Ecuador stabil, de nem mindig termel sok gólt, miközben Elefántcsontpart jó formában és veszélyes átmenetekkel érkezik. A legnagyobb eltérés ott van, hogy egyes vélemények Ecuador szűk, akár kapott gól nélküli sikerét várják, míg mások inkább 1-1-et vagy elefántcsontparti pontszerzést látnak értékesebbnek.

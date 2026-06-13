@@ -82,3 +82,30 @@ A félidei német vezetés már érzékenyebb piac. A nyomás alapján benne van
 Második vonalban a német csapat-szöglet over és a Németország over 1.5 gól is vállalható gondolat lehet, de ezek már jobban függnek attól, mikor törik meg a curaçaói védekezés. A félidei német vezetés inkább közepes kockázatú opció, míg a pontos eredményes, félidei pontos állásos vagy lapos piacokkal érdemes óvatosan bánni.
 
 Összességében nem az a lényeg, hogy Németország papíron erősebb, hanem az, hogy milyen típusú fölény várható. A nyomásból, beadásokból és területi dominanciából következő piacok tűnnek a legjobban indokolhatónak, míg a gólhatárok és speciális piacok már sokkal inkább egy-egy apró meccseseményen múlhatnak.
+
+## Odds Elemzés profiktól
+
+### Oddsok 
+
+ALACSONY KOCKÁZAT: Németország győzelem, Németország dupla esély / nem kap ki, Németország over 1.5 csapatgól, Over 2.5 gól
+
+KÖZEPES KOCKÁZAT: Németország -2.5 hendikep, Németország nyer nullára, BTTS – nem, Over 3.5 gól, Németország mindkét félidőben gólt szerez, Németország nyeri mindkét félidőt
+
+MAGAS KOCKÁZAT: Németország -3.5 hendikep, Over 4.5 gól, Németország over 3.5 csapatgól, pontos eredmény 3-0, pontos eredmény 4-0, pontos eredmény 5-0, Schlotterbeck gólt szerez, Bacuna lapot kap, Havertz 2+ gól
+
+* Németország győzelem: kb. 1.03–1.06
+* Döntetlen: kb. 16.00–21.00
+* Curaçao győzelem: kb. 29.00–70.00
+* Over 4.5 gól: kb. 2.00–2.15
+* Under 4.5 gól: kb. 1.70–1.80
+* Németország -3.5 hendikep: kb. 1.90 körül
+* Pontos eredmény 3-0: több modell szerint az egyik legvalószínűbb konkrét scoreline
+* Pontos eredmény 4-0: kb. 6.50
+* Pontos eredmény 5-0: kb. 8.00
+
+
+### Elemzés
+
+Az átnézett előzetesek többsége egyoldalú meccset vár. A fő gondolat az, hogy Németország a 2018-as és 2022-es csalódások után erős rajtot akar, ráadásul jó formában érkezik, miközben Curaçao világbajnoki újonc, alacsonyabb rangsorú és jóval kisebb keretmélységgel dolgozik. A legtöbb elemzés nem nagyon lát reális upset-forgatókönyvet, inkább azt boncolgatja, hogy Németország mennyire korán töri fel a védekezést, és mennyire marad éhes a második félidőben is.
+
+A javasolt piacok között a Németország győzelem, a német többgólos siker, a Németország kapott gól nélkül, az Over 3.5 / Over 4.5 gól, valamint a német csapatgólok over 3.5 tér vissza leggyakrabban. A nagyobb szorzós, de érthetően indokolt ötletek a 4-0, 5-0, illetve egy védő vagy fejelésveszélyes játékos gólszerzése, mert a meccskép alapján sok német támadás, pontrúgás és tartós nyomás várható. Ahol eltérés van, az főleg a gólhatár: egyesek 3-0 körüli kontrollált győzelmet várnak, mások 4-5 gólos német sikert, tehát nem a győztes személye, hanem a kiütés mértéke a bizonytalan rész.
