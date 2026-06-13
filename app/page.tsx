@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { getPublicAssetVersion } from "@/lib/assets";
 import { formatPostDate } from "@/lib/date";
 import { getAllPosts } from "@/lib/posts";
 
@@ -26,6 +27,7 @@ export default async function Home({ searchParams }: HomeProps) {
   const totalPages = Math.max(1, Math.ceil(posts.length / POSTS_PER_PAGE));
   const safePage = Math.min(currentPage, totalPages);
   const paginatedPosts = posts.slice((safePage - 1) * POSTS_PER_PAGE, safePage * POSTS_PER_PAGE);
+  const heroImageSrc = `/front.webp?v=${getPublicAssetVersion("front.webp")}`;
 
   return (
     <main>
@@ -46,7 +48,7 @@ export default async function Home({ searchParams }: HomeProps) {
 
         <div className="hero-image-wrap">
           <Image
-            src="/front.webp"
+            src={heroImageSrc}
             alt="Lemur VB tippfogadási blog nyitókép"
             width={1536}
             height={1024}
