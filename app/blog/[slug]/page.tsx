@@ -58,9 +58,6 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
         <div className="article-meta">
           <span>{formatPostDate(post.date)}</span>
           <span>{post.readingTime}</span>
-          {post.tags.map((tag) => (
-            <span key={tag}>{tag}</span>
-          ))}
         </div>
         <div className="article-content" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
       </article>

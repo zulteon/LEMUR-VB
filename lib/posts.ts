@@ -102,6 +102,11 @@ function markdownToHtml(markdown: string) {
       continue;
     }
 
+    if (/^-{3,}$/.test(trimmed)) {
+      flushList();
+      continue;
+    }
+
     const bulletMatch = trimmed.match(/^[-*]\s+(.+)$/);
     if (bulletMatch) {
       listItems.push(`<li>${inlineMarkdown(bulletMatch[1])}</li>`);

@@ -5,6 +5,14 @@ import { getAllPosts } from "@/lib/posts";
 
 const POSTS_PER_PAGE = 8;
 
+function getCardTitle(title: string) {
+  return title
+    .replace(/\s*[-–—:]?\s*elemzés\s*$/i, "")
+    .replace(/\s*elemzés\s*/gi, " ")
+    .replace(/\s{2,}/g, " ")
+    .trim();
+}
+
 type HomeProps = {
   searchParams?: Promise<{
     page?: string;
@@ -30,15 +38,10 @@ export default async function Home({ searchParams }: HomeProps) {
       <section className="hero">
         <div className="hero-copy">
           <h1>
-            Okosabb tippek.
+            Tippelés.
             <br />
-            <em>Kevesebb kapkodás.</em>
+            <em>Lazulgatás barátokkal.</em>
           </h1>
-          <p className="lead">
-            Tippfogadási gondolatok, meccselemzések és letisztult döntési szempontok
-            érthetően. Nem biztos tippeket ígérünk, hanem átgondolt logikát minden
-            bejegyzés mögött.
-          </p>
         </div>
 
         <div className="hero-image-wrap">
@@ -56,7 +59,6 @@ export default async function Home({ searchParams }: HomeProps) {
       <section className="blog-section" id="blog">
         <div className="section-heading">
           <p className="eyebrow">Tippek</p>
-          <h2>Legfrissebb tippfogadási jegyzetek.</h2>
         </div>
 
         <div className="post-grid">
@@ -64,15 +66,8 @@ export default async function Home({ searchParams }: HomeProps) {
             <Link href={`/blog/${post.slug}`} className="post-card" key={post.slug}>
               <div className="card-meta">
                 <span>{formatPostDate(post.date)}</span>
-                <span>{post.readingTime}</span>
               </div>
-              <h3>{post.title}</h3>
-              <p>{post.excerpt}</p>
-              <div className="tag-row">
-                {post.tags.slice(0, 3).map((tag) => (
-                  <span key={tag}>{tag}</span>
-                ))}
-              </div>
+              <h3>{getCardTitle(post.title)}</h3>
             </Link>
           ))}
         </div>
