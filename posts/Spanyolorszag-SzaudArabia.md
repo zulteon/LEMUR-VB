@@ -8,7 +8,7 @@ tags: ["meccselemzés", "odds", "válogatott", "világbajnokság"]
 
 ## Oddsok
 
-#### Claude
+### Claude
 
 **Alacsony kockázat:**
 
@@ -24,7 +24,7 @@ tags: ["meccselemzés", "odds", "válogatott", "világbajnokság"]
 
 * Pontos eredmény: Spanyolország 2–0 vagy 2–1 – nagyon forgatókönyvfüggő piac, egy korai gól, piros lap vagy váratlan ritmustörés könnyen elviheti.
 
-#### Gemini
+### Gemini
 
 **Alacsony kockázat:**
 
@@ -39,7 +39,7 @@ tags: ["meccselemzés", "odds", "válogatott", "világbajnokság"]
 
 * Félidei döntetlen – egyetlen korai gól, pontrúgás vagy egyéni villanás azonnal elrontja ezt az irányt.
 
-#### GPT
+### GPT
 
 **Alacsony kockázat:**
 
